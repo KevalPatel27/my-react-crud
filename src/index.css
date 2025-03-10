@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.noData{
+    margin: 0px auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+}
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+tr:hover {
+    background-color: #f1f1f1;
+}
+.addEmployeeBtn{
+    border:none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 15px;
+    display:flex;
+    background-color:#28a745;
+    color: white;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+}
+.conformModelbutton button,.inFieldBtn {
+    padding: 8px 8px;
+    margin: 4px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+}
+.inFieldBtn:first-child,.conformModelbutton button:first-child {
+    background-color: #28a745;
+    color: white;
+}
+.inFieldBtn:last-child,.conformModelbutton button:last-child {
+    background-color: #dc3545;
+    color: white;
+}
+button:hover {
+    opacity: 0.8;
+}
+.addEmployeeBtn:hover {
+    background-color: #76bd86 !important;
+    opacity: 1;
+}
+.conformModelbutton{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    column-gap: 20px;
+    margin-top: 20px;
+}
+.modalStyle{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modalContainer{
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    max-height: 500px;
+}
+.addEmployeeH2, .editEmployeeH2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.addEmployeebtn, .editEmployeebtn {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 5px 0;
+}
+
+.addEmployeebtn[type="button"], .editEmployeebtn[type="button"] {
+    background-color: #dc3545;
+}
+
+.addEmpForm , .editEmpForm{
+    display:flex;
+    flex-direction: column
+}

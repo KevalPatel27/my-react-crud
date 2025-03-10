@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "salary": 70000
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "position": "Project Manager",
+    "salary": 85000
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "position": "UI/UX Designer",
+    "salary": 65000
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "position": "DevOps Engineer",
+    "salary": 78000
+  },
+  { "id": 5, "name": "Emily White", "position": "HR Manager", "salary": 72000 },
+  {
+    "id": 6,
+    "name": "Daniel Wilson",
+    "position": "Backend Developer",
+    "salary": 75000
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "position": "Frontend Developer",
+    "salary": 73000
+  },
+  {
+    "id": 8,
+    "name": "James Anderson",
+    "position": "Data Scientist",
+    "salary": 88000
+  },
+  {
+    "id": 9,
+    "name": "Sophia Thomas",
+    "position": "Marketing Manager",
+    "salary": 79000
+  },
+  {
+    "id": 10,
+    "name": "Benjamin Lee",
+    "position": "Quality Assurance Engineer",
+    "salary": 68000
+  },
+  {
+    "id": 11,
+    "name": "Emma Harris",
+    "position": "Full Stack Developer",
+    "salary": 81000
+  },
+  {
+    "id": 12,
+    "name": "Liam Walker",
+    "position": "Product Manager",
+    "salary": 90000
+  },
+  {
+    "id": 13,
+    "name": "Ava Robinson",
+    "position": "Business Analyst",
+    "salary": 77000
+  },
+  {
+    "id": 14,
+    "name": "William Young",
+    "position": "IT Support Specialist",
+    "salary": 60000
+  },
+  {
+    "id": 15,
+    "name": "Charlotte Hall",
+    "position": "Sales Executive",
+    "salary": 72000
+  },
+  {
+    "id": 16,
+    "name": "Ethan King",
+    "position": "Database Administrator",
+    "salary": 83000
+  },
+  {
+    "id": 17,
+    "name": "Mia Allen",
+    "position": "Network Engineer",
+    "salary": 76000
+  },
+  {
+    "id": 18,
+    "name": "Alexander Scott",
+    "position": "Cybersecurity Analyst",
+    "salary": 87000
+  },
+  {
+    "id": 19,
+    "name": "John Snow",
+    "salary": "580000",
+    "position": "Content Writer"
+  },
+  { 
+    "id": 20,
+    "name": "Elien",
+    "salary": 64000,
+    "position": "Graphic Designer" 
+  }
+]
