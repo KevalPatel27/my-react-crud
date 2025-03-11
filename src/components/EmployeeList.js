@@ -78,7 +78,11 @@ const EmployeeList = () => {
                                 Name {sortConfig.key === "name" ? (sortConfig.order === "asc" ?<FaCaretUp /> : <FaCaretDown />) : ""}
                             </span>    
                         </th>
-                        <th>Position</th>
+                        <th onClick={() => toggleSortOrder("position")}>
+                            <span style={{ display:"flex", justifyContent:"center",columnGap:'5px' }}>   
+                                Position {sortConfig.key === "position" ? (sortConfig.order === "asc" ?<FaCaretUp /> : <FaCaretDown />) : ""}
+                            </span>    
+                        </th>
                         <th onClick={() => toggleSortOrder("salary")}>
                             <span style={{ display:"flex", justifyContent:"center",columnGap:'5px' }}>
                                 Salary {sortConfig.key === "salary" ? (sortConfig.order === "asc" ?<FaCaretUp /> : <FaCaretDown />) : ""}
