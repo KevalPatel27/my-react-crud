@@ -8,7 +8,6 @@ const AddEmployee = ({ isOpen, onAddEmployee, onClose }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (name && salary && position) {
-      console.log("first step")
       onAddEmployee({ name, salary, position });
       setName("");
       setPosition("");

@@ -58,7 +58,11 @@ export const EmployeeProvider = ({ children }) => {
     };
 
     const deleteEmployee = (id) => {
-        setEmployees(employees.filter(emp => emp.id !== id));
+        setEmployees(
+            employees
+            .filter(emp => emp.id !== id)
+            .map((emp,index)=>({...emp,id:index+1}))
+         );
     };
 
     return (
