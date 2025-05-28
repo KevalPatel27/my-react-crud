@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Day1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Morning & Afternoon
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+As you arrive at Malta International Airport (MLA), you will need to clear customs and immigration. Make sure you have completed all the necessary documents and have a valid passport to present to the Immigration Officer. Once through Immigration, continue to the baggage claim area to locate your luggage. Outside the terminal, transportation staff will be waiting for you, holding a customized sign with the 2024 Premier Malta award trip logo. The representatives will escort you to a waiting transport vehicle to transfer to your hotel. The ride is approximately 25 minutes.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Evening
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Welcome Cocktail Hour
 
-### `npm run eject`
+- Join fellow winners and hosts at a cocktail hour.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Attendance at the cocktail hour is optional for all Pfizer colleagues and guests who have already arrived at the resort.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Suggested Attire: Resort Casual
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Guests of all ages are welcome to attend evening functions.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- If you are bringing a child as your guest and are interested in hiring a babysitter, please contact the Award Headquarters for assistance.
 
-## Learn More
+- Pfizer will pay childcare charges incurred at the award trip according to T&E policy.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- For detailed information, refer to the [Trip Policy page](link not provided).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Guest Policy
 
-### Analyzing the Bundle Size
+- Attendees may bring an infant under one (1) year old in addition to one guest.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Evening at Leisure
 
-### Advanced Configuration
+- Tonight, you and your guest will receive a cash allowance to use at one of the fabulous restaurants on or off property.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- You may also choose to simply relax in your room and order room service.
 
-### Deployment
+- A restaurant reservation request website will be sent out in the coming weeks to book your reservations.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Suggested Attire: Varies based on restaurant.
 
-### `npm run build` fails to minify
+--------------------------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
